@@ -6,7 +6,7 @@ import java.io.IOException;
 
 import org.apache.poi.xssf.usermodel.*;
 
-public class execution {
+public class readingexcel {
 	
 	public static void main(String args[]) throws IOException {
 		
