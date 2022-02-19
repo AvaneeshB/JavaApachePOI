@@ -1,5 +1,5 @@
 # JavaApachePOI
 Operating upon Microsoft excel using apache poi library.
 
-//--path--//
+*-- PATH --*
 path = "..\\<folder-name>\\<file-name>"
